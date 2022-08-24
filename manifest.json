@@ -1,0 +1,13 @@
+{
+    "name": "Tic Tac Toe",
+    "description": "Simple, But Fun Game To Play In Your Browser",
+    "version": "1.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "32": "icon.png",
+        "128": "bigicon.png"
+    }
+}
